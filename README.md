@@ -1,2 +1,2 @@
 # Edge Detection and Image Segmentation
- GUI-BASED 
+ Laboratory Exercise 4
